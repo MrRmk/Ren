@@ -1,10 +1,10 @@
-内网ip地址：http://172.22.151.27:8880/default
-外网ip地址：htpp://218.28.35.114:8880/default
+鍐呯綉ip鍦板潃锛歨ttp://172.22.151.27:8880/default
+澶栫綉ip鍦板潃锛歨ttp://218.28.35.114:8880/default
 
-超市化辅助请购平台：https://pro.modao.cc/app/Lv48ojhvOLXpp4a70xtjPiDj1oqH7Xs#screen=s6C60B3F7BD1499845293751 
+瓒呭競鍖栬緟鍔╄璐钩鍙帮細https://pro.modao.cc/app/Lv48ojhvOLXpp4a70xtjPiDj1oqH7Xs#screen=s6C60B3F7BD1499845293751 
 
-光伏云平台：https://pro.modao.cc/app/0eba02677efe0736c6ae73dfb72f656356c40bfc 
+鍏変紡浜戝钩鍙帮細https://pro.modao.cc/app/0eba02677efe0736c6ae73dfb72f656356c40bfc 
 
-基建管理：https://pro.modao.cc/app/a45ab74d0230e5f9b126f2fe7f9726d55aff18d6#screen=sF0566C39081496830214762 
+鍩哄缓绠＄悊锛歨ttps://pro.modao.cc/app/a45ab74d0230e5f9b126f2fe7f9726d55aff18d6#screen=sF0566C39081496830214762 
 
-企业运营管控：https://pro.modao.cc/app/DqLKIecTxtzwfnVVJk6rbfpregJOZvx#screen=s0F082747F71495182528661 
+浼佷笟杩愯惀绠℃帶锛歨ttps://pro.modao.cc/app/DqLKIecTxtzwfnVVJk6rbfpregJOZvx#screen=s0F082747F71495182528661 
